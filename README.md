@@ -1,2 +1,2 @@
-# classes_reminder_bot
-Telegram bot for reminders about classes
+# Бот для напоминаний в Telegram
+Бот предназначен для напоминаний о занятиях по информатике для меня, моих учеников и/или их родителей. Бот доступен по [ссылке](https://t.me/classes_reminder_bot) или его можно найти по тегу `@classes_reminder_bot`. 
