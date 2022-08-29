@@ -6,5 +6,5 @@
 1. `CALENDAR_NAME` - название календаря с расписанием занятий
 2. `CURRENT_WEB_APP_URL` - ссылка веб-приложения с ботом
 3. `DB_URL` - ссылка на таблицу с записями для работы бота
-4. `MY_TELEGRAM_CHAT` - ID моего чата в Telegram для тестирования
+4. `MY_TELEGRAM_CHAT_ID` - ID моего чата в Telegram для тестирования
 5. `TELEGRAM_API_TOKEN` - токен бота
